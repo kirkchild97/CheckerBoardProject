@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+.row{
+    display:flex;
+    justify-content: center;
+}
+
+.square{
+    min-width: 50px;
+    min-height: 50px;
+}
